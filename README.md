@@ -26,7 +26,7 @@ There are also several special non-English letters included:
 * Schwa - e → ə: `*E/SWHA`
 * Sharp S/Eszett - s → ß: `S*/SHARP`
 * Long S - s → ſ: `S*/HROPBG`
-* Fricativization: d → ð or t → þ: `TK*/TPEUBG` or `T*/TPEUBG`
+* Fricativization: d → ð or t → þ: `TK*/TPREUBG` or `T*/TPREUBG`
 * Velarization: n → ŋ: `TPH*/SRAOEL`
 
 This dictionary cannot handle words with multiple diacritics, such as ǡ, because that would be a significant amount of additional work for characters I personally will never use. (95% of this dictionary is already stuff I'll never use, tbh; I just needed a way to write the occasional ñ or ü and figured I may as well be systematic about it.) This is a first draft; feedback is welcome.
