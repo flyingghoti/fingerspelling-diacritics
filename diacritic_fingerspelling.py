@@ -432,7 +432,7 @@ diacritics = {
         "s": "ſ"
     },
     # FRICATIVE (eth and thorn)
-    "TPEUBG": {
+    "TPREUBG": {
         "d": "ð",
         "t": "þ",
         "D": "Ð",
